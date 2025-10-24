@@ -14,6 +14,4 @@ A **responsive and interactive Tic Tac Toe game** built with **HTML, CSS, and Ja
 1. Open `index.html` in your browser.  
 2. Click on the grid to make your move.  
 
-## Author 👨‍💻
-**Atul Jha**  
-- GitHub: [ATULJHAgh](https://github.com/ATULJHAgh)
+
